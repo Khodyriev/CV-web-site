@@ -103,6 +103,7 @@ header {
 }
 .courses .btn:hover {
   background: rgba(29, 41, 81, 80%);
+  text-decoration: none;
 }
 .certification-item {
   overflow: hidden;
